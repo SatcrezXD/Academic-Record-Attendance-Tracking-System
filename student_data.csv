@@ -1,0 +1,4 @@
+id,name,grades,attendance
+101,Rahul Sharma,"{""Math Test 01"": {""score"": 95.0, ""weight"": 0.8}, ""Introduction to Problem Solving and Programming"": {""score"": 85.0, ""weight"": 0.6}}","{""attended"": 0, ""total"": 0}"
+102,Priya Singh,"{""project"": {""score"": 90.0, ""weight"": 0.0}}","{""attended"": 14, ""total"": 20}"
+103,Parth,{},"{""attended"": 0, ""total"": 0}"
